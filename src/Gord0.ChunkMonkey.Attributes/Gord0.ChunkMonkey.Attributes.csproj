@@ -10,8 +10,8 @@
 		<Authors>Andrew Gordon</Authors>
 		<Description>Provides attributes for use with ChunkyMonkey, a C# code generator that generates code, at build time, to split an object containing collection properties (arrays, lists, dictionaries etc) into chunks. It also provides the ability to merge the chunks back into a single object instance.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageProjectUrl>https://github.com/andrew-gordon/ChunkyMonkey</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/andrew-gordon/ChunkyMonkey</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/andrew-gordon/Gord0.ChunkMonkey.Attributes</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/andrew-gordon/Gord0.ChunkMonkey.Attributes</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<Copyright>© Andrew Gordon</Copyright>
 		<PackageReleaseNotes>Initial release</PackageReleaseNotes>
