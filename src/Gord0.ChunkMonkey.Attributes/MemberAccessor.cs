@@ -1,4 +1,4 @@
-﻿namespace Gordo.ChunkyMonkey.Attributes
+﻿namespace Gord0.ChunkMonkey.Attributes
 {
     public enum MemberAccessor
     {

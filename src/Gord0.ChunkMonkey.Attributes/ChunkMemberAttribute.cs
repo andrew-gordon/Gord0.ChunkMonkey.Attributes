@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Gordo.ChunkyMonkey.Attributes
+namespace Gord0.ChunkMonkey.Attributes
 {
     /// <summary>
     /// Specifies that a field or property is a member of a chunk.

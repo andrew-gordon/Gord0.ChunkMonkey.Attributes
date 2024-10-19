@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Gordo.ChunkyMonkey.Attributes
+namespace Gord0.ChunkMonkey.Attributes
 {
     /// <summary>
     /// Specifies that the class can be chunked. Optionally, the visibility of the members to be chunked can be specified.
