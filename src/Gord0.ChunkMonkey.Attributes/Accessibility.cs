@@ -1,6 +1,6 @@
 ﻿namespace Gord0.ChunkMonkey.Attributes
 {
-    public enum MemberAccessor
+    public enum Accessibility
     {
         Public,
         All
